@@ -1,0 +1,8 @@
+C:\Users\penha\source\repos\jogoAdvinhacao\jogoAdvinhacao\obj\Debug\jogoAdvinhacao.csproj.AssemblyReference.cache
+C:\Users\penha\source\repos\jogoAdvinhacao\jogoAdvinhacao\obj\Debug\jogoAdvinhacao.csproj.SuggestedBindingRedirects.cache
+C:\Users\penha\source\repos\jogoAdvinhacao\jogoAdvinhacao\obj\Debug\jogoAdvinhacao.csproj.CoreCompileInputs.cache
+C:\Users\penha\source\repos\jogoAdvinhacao\jogoAdvinhacao\bin\Debug\jogoAdvinhacao.exe.config
+C:\Users\penha\source\repos\jogoAdvinhacao\jogoAdvinhacao\bin\Debug\jogoAdvinhacao.exe
+C:\Users\penha\source\repos\jogoAdvinhacao\jogoAdvinhacao\bin\Debug\jogoAdvinhacao.pdb
+C:\Users\penha\source\repos\jogoAdvinhacao\jogoAdvinhacao\obj\Debug\jogoAdvinhacao.exe
+C:\Users\penha\source\repos\jogoAdvinhacao\jogoAdvinhacao\obj\Debug\jogoAdvinhacao.pdb
